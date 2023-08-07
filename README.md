@@ -36,3 +36,11 @@ RoSploit currently supports the following popular Roblox games:
 - Game 2
 - Game 3
 - ...
+
+___
+
+### Supported Executors
+- [Electron](https://ryos.lol/)
+- [Oxygen U](https://oxygenu.xyz/)
+- [Fluxus](https://fluxteam.net/)
+And more..
