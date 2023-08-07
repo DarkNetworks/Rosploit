@@ -1,7 +1,5 @@
 # RoSploit - A Powerful Roblox Script with Multiple Game Support
 
-![RoSploit Logo](https://example.com/rosploit-logo.png)
-
 > RoSploit is a versatile and powerful Roblox script that offers a wide range of features and supports multiple games. Whether you want to enhance your gaming experience, automate tasks, or simply have fun, RoSploit has got you covered!
 
 ## Features
