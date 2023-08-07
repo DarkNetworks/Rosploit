@@ -43,4 +43,5 @@ ___
 - [Electron](https://ryos.lol/)
 - [Oxygen U](https://oxygenu.xyz/)
 - [Fluxus](https://fluxteam.net/)
-And more..
+
+*And many more..*
