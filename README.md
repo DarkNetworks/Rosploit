@@ -10,7 +10,7 @@
 
 - **Exploit Compatibility**: RoSploit is compatible with major Roblox exploits, ensuring smooth integration and optimal performance.
 
-- **Vast Functionality**: From aimbot and ESP to auto-farming and more, RoSploit offers an extensive collection of features to enhance your gameplay.
+- **Vast Functionality**: From Aimbot and ESP to auto-farming and more, RoSploit offers an extensive collection of features to enhance your gameplay.
 
 - **Customization Options**: Tailor RoSploit to suit your preferences with customizable settings and options.
 
