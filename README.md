@@ -42,6 +42,6 @@ ___
 ### Supported Executors
 - [Electron](https://ryos.lol/)
 - [Oxygen U](https://oxygenu.xyz/)
-- [Fluxus](https://fluxteam.net/)
+- [Fluxus V7](https://fluxteam.net/)
 
 *And many more..*
